@@ -1,0 +1,4 @@
+date: 16.01.2023 title: John description: Attended lecture on Physics
+date: 02.01.2023 title: Alice description: Completed homework
+date: 09.01.2023 title: Bob description: Study group meeting
+date: 04.01.2023 title: Emily description: Project presentation

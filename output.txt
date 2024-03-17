@@ -1,0 +1,4 @@
+date: 2023-01-02 name: Alice description: Completed
+date: 2023-01-04 name: Emily description: Project
+date: 2023-01-09 name: Bob description: Study
+date: 2023-01-16 name: John description: Attended
